@@ -57,7 +57,7 @@
           <l n="1" xml:id="l1">Ô, puissant Dieu des Grecs, je viens sous votre loi</l>
           <l n="2" xml:id="l2">Faire entendre en ces lieux ma douce et faible voix.</l>
           <l n="3" xml:id="l3">De Phèdre et d'Hippolyte au lourd passé de gloire</l>
-          <l n="4" xml:id="l4">Je veux ressusciter la tragique mémoire...</l>
+          <l n="4" xml:id="l4">Je veux ressusciter la tragique mémoire…</l>
           <l n="5" xml:id="l5">Phèdre aimait son beau-fils, Hippolyte au coeur pur,</l>
           <l n="6" xml:id="l6">Qui lui ne voulait pas de cet amour impur.</l>
           <l n="7" xml:id="l7">Ce que vous entendrez ici n'est pas un mythe</l>
@@ -67,11 +67,11 @@
         <sp who="theramene" xml:id="I-2">
           <speaker>théramène</speaker>
           <l n="9" xml:id="l9">Tu me parais bien pâle et triste à regarder</l>
-          <l n="10" xml:id="l10" part="I">Qu'as-tu donc Hippolyte ?</l>
+          <l n="10" xml:id="l10" part="I">Qu'as-tu donc Hippolyte ?</l>
         </sp>
         <sp who="hippolyte" xml:id="I-3">
           <speaker>hippolyte</speaker>
-          <l n="10" part="F">Je suis bien emmerdé !</l>
+          <l n="10" part="F">Je suis bien emmerdé !</l>
         </sp>
         <sp who="theramene" xml:id="I-4">
           <speaker>théramène</speaker>
@@ -85,105 +85,105 @@
         </sp>
         <sp who="theramene" xml:id="I-6">
           <speaker>théramène</speaker>
-          <l n="15" xml:id="l15" part="I">Et Aricie alors ?</l>
+          <l n="15" xml:id="l15" part="I">Et Aricie alors ?</l>
         </sp>
         <sp who="hippolyte" xml:id="I-7">
           <speaker>hippolyte</speaker>
-          <l n="15" part="F">Ah ! Ne m'en parle pas !</l>
+          <l n="15" part="F">Ah ! Ne m'en parle pas !</l>
           <l n="16" xml:id="l16">Quand j'évoque la nuit ses innocents appas</l>
           <l n="17" xml:id="l17">J'ai des perturbations dedans la tubulure</l>
           <l n="18" xml:id="l18">Car cette Aricie-là je l'ai dans la fressure,</l>
-          <l n="19" xml:id="l19">Elle est partout en moi, j'en ai le cerveau las<note type="C">Cerveau las : jeu de mots avec Cervelas.</note>,</l>
-          <l n="20" xml:id="l20">J'ai l'Aricie ici et j'ai l'Aricie là !</l>
+          <l n="19" xml:id="l19">Elle est partout en moi, j'en ai le cerveau las<note type="C">Cerveau las : jeu de mots avec Cervelas.</note>,</l>
+          <l n="20" xml:id="l20">J'ai l'Aricie ici et j'ai l'Aricie là !</l>
         </sp>
         <sp who="theramene" xml:id="I-8">
           <speaker>théramène</speaker>
-          <l n="21" xml:id="l21">Elle a pris je le vois et tes sens et ta tête...</l>
+          <l n="21" xml:id="l21">Elle a pris je le vois et tes sens et ta tête…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-9">
           <speaker>hippolyte</speaker>
-          <l n="22" xml:id="l22">Ah ! Je veux oublier le lieu de sa retraite !</l>
+          <l n="22" xml:id="l22">Ah ! Je veux oublier le lieu de sa retraite !</l>
         </sp>
         <sp who="theramene" xml:id="I-10">
           <speaker>théramène</speaker>
-          <l n="23" xml:id="l23" part="I">La retraite de qui ?</l>
+          <l n="23" xml:id="l23" part="I">La retraite de qui ?</l>
         </sp>
         <sp who="hippolyte" xml:id="I-11">
           <speaker>hippolyte</speaker>
-          <l n="23" part="F">La retrait' d'Aricie</l>
-          <l n="24" xml:id="l24">Qu'elle sorte de moi ! Aricie la sortie<note type="C">Aricie la sortie : jeu de mots avec Par ici la sortie.</note> !</l>
-          <stage>On entend une trompette jouer : As-tu connu la putain de Nancy<note type="C">La chanson "As-tu connu la putain de Nancy" est une chanson paillarde d'une cinquantaine de vers libres.</note>...</stage>
+          <l n="23" part="F">La retrait' d'Aricie<note>La retraite de Russie ?</note></l>
+          <l n="24" xml:id="l24">Qu'elle sorte de moi ! Aricie la sortie<note type="C">Aricie la sortie : jeu de mots avec Par ici la sortie.</note> !</l>
+          <stage>On entend une trompette jouer : As-tu connu la putain de Nancy<note type="C">La chanson "As-tu connu la putain de Nancy" est une chanson paillarde d'une cinquantaine de vers libres.</note>…</stage>
         </sp>
         <sp who="theramene" xml:id="I-12">
           <speaker>théramène</speaker>
-          <l n="25" xml:id="l25">Mais qui vois-je avancer en sa grâce hautaine ?</l>
-          <l n="26" xml:id="l26">N'est-ce pas de l'amour la plus pure vision ?</l>
+          <l n="25" xml:id="l25">Mais qui vois-je avancer en sa grâce hautaine ?</l>
+          <l n="26" xml:id="l26">N'est-ce pas de l'amour la plus pure vision ?</l>
           <l n="27" xml:id="l27">C'est l'ardente sirène, la sirène des reines</l>
-          <l n="28" xml:id="l28">C'est Phèdre au sein gonflé des plus folles passions !</l>
+          <l n="28" xml:id="l28">C'est Phèdre au sein gonflé des plus folles passions !</l>
         </sp>
         <sp who="phedre" xml:id="I-13">
           <speaker>phèdre, entrant avec ses servantes</speaker>
-          <l n="29" xml:id="l29">Oui, c'est moi, me voici. Tiens, c'est toi Théramène ?</l>
-          <l n="30" xml:id="l30" part="I">Que viens-tu faire ici ?</l>
+          <l n="29" xml:id="l29">Oui, c'est moi, me voici. Tiens, c'est toi Théramène ?</l>
+          <l n="30" xml:id="l30" part="I">Que viens-tu faire ici ?</l>
         </sp>
         <sp who="theramene" xml:id="I-14">
           <speaker>théramène</speaker>
           <l n="30" part="F">Je venais, souveraine</l>
-          <l n="31" xml:id="l31">Vous redire à nouveau mon récit tant vécu<note type="C">Le récit de Théramène est une tirade de de 72 vers (v. 1498-1570) qui décrit la mort d'Hippolite dans la tragédie de Jean Racine (Acte V, scène VI).</note>...</l>
+          <l n="31" xml:id="l31">Vous redire à nouveau mon récit tant vécu<note type="C">Le récit de Théramène est une tirade de de 72 vers (v. 1498-1570) qui décrit la mort d'Hippolite dans la tragédie de Jean Racine (Acte V, scène VI).</note>…</l>
         </sp>
         <sp who="phedre" xml:id="I-15">
           <speaker>phèdre</speaker>
-          <l n="32" xml:id="l32">Ton récit je l'connais, tu peux te l'foutre au cul !</l>
+          <l n="32" xml:id="l32">Ton récit je l'connais, tu peux te l'foutre au cul !</l>
           <l n="33" xml:id="l33">À l'écouter encor' j'en aurais du malaise</l>
-          <l n="34" xml:id="l34">Il y a trop longtemps que Théramèn' ta fraise !!!</l>
+          <l n="34" xml:id="l34">Il y a trop longtemps que Théramèn' ta fraise !!!</l>
           <stage>Théramène, ulcéré, s'incline et sort. Phèdre voit Hippolyte.</stage>
         </sp>
         <sp who="phedre" xml:id="I-16">
           <speaker>phèdre</speaker>
-          <l n="35" xml:id="l35">Hippolyte ! Ah ! Grands dieux je ne peux plus parler</l>
-          <l n="36" xml:id="l36">Et je sens tout mon corps se transir et brûler !<note type="C">Voir le vers 276, de Jean Racine : "Je sentis tout mon corps et transir, et brûler."</note></l>
+          <l n="35" xml:id="l35">Hippolyte ! Ah ! Grands dieux je ne peux plus parler</l>
+          <l n="36" xml:id="l36">Et je sens tout mon corps se transir et brûler !<note type="C">Voir le vers 276, de Jean Racine : "Je sentis tout mon corps et transir, et brûler."</note></l>
         </sp>
         <sp who="hippolyte" xml:id="I-17">
           <speaker>hippolyte</speaker>
-          <l n="37" xml:id="l37">Ô rage ! Ô désespoir ! Ô détestable race !<note type="C">Le début du vers est semblable aux vers n°2194 de Genviève d'Aure, n°1703 d'Oroposte de Claude Boyer, n°237 du Cid de Pierre Corneille, n°1597 de Cléomédon de Du Ryer, n°1269 de L'Absent de chez soi d'Ouville, n°1702 de Cléagénor et n°658 d'Hercule mourant de Rotrou, n°605 de l'Amour tyran et n°1335 d'Arminius de Georges de Scudéry. Voir ausi le vers 266 de Phèdre de Jeaan Racine.</note></l>
+          <l n="37" xml:id="l37">Ô rage ! Ô désespoir ! Ô détestable race !<note type="C">Le début du vers est semblable aux vers n°2194 de Genviève d'Aure, n°1703 d'Oroposte de Claude Boyer, n°237 du Cid de Pierre Corneille, n°1597 de Cléomédon de Du Ryer, n°1269 de L'Absent de chez soi d'Ouville, n°1702 de Cléagénor et n°658 d'Hercule mourant de Rotrou, n°605 de l'Amour tyran et n°1335 d'Arminius de Georges de Scudéry. Voir ausi le vers 266 de Phèdre de Jeaan Racine.</note></l>
         </sp>
         <sp who="phedre" xml:id="I-18">
           <speaker>phèdre</speaker>
-          <l n="38" xml:id="l38">Par Jupiter je crois qu'il me trait' de pétasse<note type="C">Pétasse : terme insultant, prostituée.</note> !</l>
+          <l n="38" xml:id="l38">Par Jupiter je crois qu'il me trait' de pétasse<note type="C">Pétasse : terme insultant, prostituée.</note> !</l>
         </sp>
         <sp who="sinusite" xml:id="I-19">
           <speaker>sinusite</speaker>
-          <l n="39" xml:id="l39">Laissez-le donc maîtresse, il ne veut point de vous !</l>
+          <l n="39" xml:id="l39">Laissez-le donc maîtresse, il ne veut point de vous !</l>
         </sp>
         <sp who="phedre" xml:id="I-20">
           <speaker>phèdre</speaker>
-          <l n="40" xml:id="l40">Et moi j'en veux que j'dis, et j'l'aurai jusqu'au bout !</l>
+          <l n="40" xml:id="l40">Et moi j'en veux que j'dis, et j'l'aurai jusqu'au bout !</l>
           <stage>À Hippolyte.</stage>
-          <l n="41" xml:id="l41">N'as-tu donc rien compris de mes tendres desseins ?</l>
-          <l n="42" xml:id="l42">T'as-t-y tâté mes cuiss's, t'as-t-y tâté mes seins ?</l>
+          <l n="41" xml:id="l41">N'as-tu donc rien compris de mes tendres desseins ?</l>
+          <l n="42" xml:id="l42">T'as-t-y tâté mes cuiss's, t'as-t-y tâté mes seins ?</l>
           <l n="43" xml:id="l43">Ne sens-tu pas les feux dont ma chair est troublée.</l>
         </sp>
         <sp who="hippolyte" xml:id="I-21">
           <speaker>hippolyte</speaker>
-          <l n="44" xml:id="l44">C'est Vénus tout entière à sa proie attachée<note type="C">Le vers 44, est le même que le vers 306 de la Phèdre de Racine.</note> !</l>
+          <l n="44" xml:id="l44">C'est Vénus tout entière à sa proie attachée<note type="C">Le vers 44, est le même que le vers 306 de la Phèdre de Racine.</note> !</l>
         </sp>
         <sp who="phedre" xml:id="I-22">
           <speaker>phèdre</speaker>
-          <l n="45" xml:id="l45">Oui, pour te posséder je me sens prête à tout !</l>
-          <l n="46" xml:id="l46">Que veux-tu que j'te fasse ? Je suis à tes genoux...</l>
-          <l n="47" xml:id="l47">Que n'ai-je su plus tôt que tu étais sans flamme...</l>
+          <l n="45" xml:id="l45">Oui, pour te posséder je me sens prête à tout !</l>
+          <l n="46" xml:id="l46">Que veux-tu que j'te fasse ? Je suis à tes genoux…</l>
+          <l n="47" xml:id="l47">Que n'ai-je su plus tôt que tu étais sans flamme…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-23">
           <speaker>hippolyte</speaker>
-          <l n="48" xml:id="l48">Certes il eût mieux valu que vous l'sussiez, madame ...</l>
+          <l n="48" xml:id="l48">Certes il eût mieux valu que vous l'sussiez, madame…</l>
         </sp>
         <sp who="phedre" xml:id="I-24">
           <speaker>phèdre</speaker>
-          <l n="49" xml:id="l49" part="I">Mais je n'demande que ça !</l>
+          <l n="49" xml:id="l49" part="I">Mais je n'demande que ça !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-25">
           <speaker>hippolyte</speaker>
-          <l n="49" part="F">De grâc' relevez-vous ...</l>
+          <l n="49" part="F">De grâc' relevez-vous…</l>
         </sp>
         <sp who="phedre" xml:id="I-26">
           <speaker>phèdre</speaker>
@@ -195,7 +195,7 @@
         </sp>
         <sp who="phedre" xml:id="I-28">
           <speaker>phèdre</speaker>
-          <l n="52" xml:id="l52">Si t'aim's pas ça non plus, j'ai plus qu'à m'débiner !</l>
+          <l n="52" xml:id="l52">Si t'aim's pas ça non plus, j'ai plus qu'à m'débiner !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-29">
           <speaker>hippolyte</speaker>
@@ -203,18 +203,18 @@
         </sp>
         <sp who="phedre" xml:id="I-30">
           <speaker>phèdre</speaker>
-          <l n="54" xml:id="l54">Par les breloqu's<note type="L">Breloque : Argot. Attributs masculins qui vont par paire.</note> d'Hercule je resterai quand même !</l>
-          <l n="55" xml:id="l55">Ah ! Que ne suis-je assise à l'ombre des palmiers...</l>
+          <l n="54" xml:id="l54">Par les breloqu's<note type="L">Breloque : Argot. Attributs masculins qui vont par paire.</note> d'Hercule je resterai quand même !</l>
+          <l n="55" xml:id="l55">Ah ! Que ne suis-je assise à l'ombre des palmiers…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-31">
           <speaker>hippolyte</speaker>
-          <l n="56" xml:id="l56" part="I">Et pourquoi donc, Madame ?</l>
+          <l n="56" xml:id="l56" part="I">Et pourquoi donc, Madame ?</l>
         </sp>
         <sp who="phedre" xml:id="I-32">
           <speaker>phèdre</speaker>
           <l n="56" part="F">Parc'que là tu verrais</l>
-          <l n="57" xml:id="l57">Ce dont je suis capable et ce que je sais faire...</l>
-          <l n="58" xml:id="l58">Je connais de l'amour quatre cent vingt-huit manières !</l>
+          <l n="57" xml:id="l57">Ce dont je suis capable et ce que je sais faire…</l>
+          <l n="58" xml:id="l58">Je connais de l'amour quatre cent vingt-huit manières !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-33">
           <speaker>hippolyte</speaker>
@@ -222,31 +222,31 @@
         </sp>
         <sp who="phedre" xml:id="I-34">
           <speaker>phèdre</speaker>
-          <l n="60" xml:id="l60">Dis, t'es pas un peu dingu' ? Ça s'fait pas d'un seul coup !</l>
-          <l n="61" xml:id="l61">Oui je sais distiller les plus rares ivresses...</l>
-          <l n="62" xml:id="l62" part="I">C'est y vrai, Sinusite et Pet-d'Nonne<note type="L">Pet de nonne : Est aussi le nom d'une patisserie. Le nom de la suivante dans le Phèdre de Racine se nome OEnone.</note> ?</l>
+          <l n="60" xml:id="l60">Dis, t'es pas un peu dingu' ? Ça s'fait pas d'un seul coup !</l>
+          <l n="61" xml:id="l61">Oui je sais distiller les plus rares ivresses…</l>
+          <l n="62" xml:id="l62" part="I">C'est y vrai, Sinusite et Pet-d'Nonne<note type="L">Pet de nonne : Est aussi le nom d'une patisserie. Le nom de la suivante dans le Phèdre de Racine se nome OEnone.</note> ?</l>
         </sp>
         <sp who="les-servantes" xml:id="I-35">
           <speaker>les servantes, un peu gênées</speaker>
-          <l n="62" part="F">Oui c'est vrai, cher' maîtresse...</l>
+          <l n="62" part="F">Oui c'est vrai, cher' maîtresse…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-36">
           <speaker>hippolyte</speaker>
           <l n="63" xml:id="l63">Je ne serais pour vous d'aucune utilité</l>
-          <l n="64" xml:id="l64">Je ne suis que faiblesse et que fragilité<note type="C">Le vers 64 est présent dans l'air "Allons il le faut... Adieu notre petite table" dans l'acte II de Manon de Jules Massenet.</note>.</l>
+          <l n="64" xml:id="l64">Je ne suis que faiblesse et que fragilité<note type="C">Le vers 64 est présent dans l'air "Allons il le faut… Adieu notre petite table" dans l'acte II de Manon de Jules Massenet.</note>.</l>
         </sp>
         <sp who="phedre" xml:id="I-37">
           <speaker>phèdre</speaker>
-          <l n="65" xml:id="l65">On n'te demande rien ! Je frai le nécessaire</l>
+          <l n="65" xml:id="l65">On n'te demande rien ! Je frai le nécessaire</l>
           <l n="66" xml:id="l66">T'as pas à t'fatiguer, t'auras qu'à t'laisser faire.</l>
         </sp>
         <sp who="hippolyte" xml:id="I-38">
           <speaker>hippolyte</speaker>
-          <l n="67" xml:id="l67">Le marbre auprès de moi est brûlant comme un feu...</l>
+          <l n="67" xml:id="l67">Le marbre auprès de moi est brûlant comme un feu…</l>
         </sp>
         <sp who="phedre" xml:id="I-39">
           <speaker>phèdre</speaker>
-          <l n="68" xml:id="l68">J'suis pas feignant' sous l'homme et j'travaill'rai pour deux !</l>
+          <l n="68" xml:id="l68">J'suis pas feignant' sous l'homme et j'travaill'rai pour deux !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-40">
           <speaker>hippolyte</speaker>
@@ -255,36 +255,36 @@
         </sp>
         <sp who="phedre" xml:id="I-41">
           <speaker>phèdre</speaker>
-          <l n="71" xml:id="l71">Mais de quels vains espoirs t'es-tu donc abusé ?</l>
-          <l n="72" xml:id="l72" part="I">Aricie est pucelle et n'a jamais...</l>
+          <l n="71" xml:id="l71">Mais de quels vains espoirs t'es-tu donc abusé ?</l>
+          <l n="72" xml:id="l72" part="I">Aricie est pucelle et n'a jamais…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-42">
           <speaker>hippolyte</speaker>
-          <l n="72" part="F">Je sais !</l>
-          <l n="73" xml:id="l73">Mais c'est cela surtout qui me la rend aimable...</l>
+          <l n="72" part="F">Je sais !</l>
+          <l n="73" xml:id="l73">Mais c'est cela surtout qui me la rend aimable…</l>
         </sp>
         <sp who="phedre" xml:id="I-43">
           <speaker>phèdre</speaker>
-          <l n="74" xml:id="l74">Oui mais pour c'qu'est d'la chose elle doit être minable !</l>
+          <l n="74" xml:id="l74">Oui mais pour c'qu'est d'la chose elle doit être minable !</l>
           <l n="75" xml:id="l75">Allons, va, n'y pens's plus et sois mon p'tit amant</l>
           <l n="76" xml:id="l76">Tu connaîtras par moi tous les enchantements!</l>
         </sp>
         <sp who="hippolyte" xml:id="I-44">
           <speaker>hippolyte</speaker>
-          <l n="77" xml:id="l77">De grâce apaisez-vous, je me sens mal à l'aise...</l>
+          <l n="77" xml:id="l77">De grâce apaisez-vous, je me sens mal à l'aise…</l>
         </sp>
         <sp who="phedre" xml:id="I-45">
           <speaker>phédre</speaker>
-          <l n="78" xml:id="l78">Viens, pour te ranimer j'te frai Péloponèse !</l>
+          <l n="78" xml:id="l78">Viens, pour te ranimer j'te frai Péloponèse !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-46">
           <speaker>hippolyte</speaker>
-          <l n="79" xml:id="l79" part="I">Qu'est-ce encor que cela ?</l>
+          <l n="79" xml:id="l79" part="I">Qu'est-ce encor que cela ?</l>
         </sp>
         <sp who="phedre" xml:id="I-47">
           <speaker>phèdre</speaker>
-          <l n="79" part="F">C'est un truc épatant !</l>
-          <l n="80" xml:id="l80">Ça s'fait les pieds au mur et l'nez dans du vin blanc !</l>
+          <l n="79" part="F">C'est un truc épatant !</l>
+          <l n="80" xml:id="l80">Ça s'fait les pieds au mur et l'nez dans du vin blanc !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-48">
           <speaker>hippolyte</speaker>
@@ -296,59 +296,59 @@
         </sp>
         <sp who="hippolyte" xml:id="I-50">
           <speaker>hippolyte</speaker>
-          <l n="83" xml:id="l83" part="I">Quelle horreur !</l>
+          <l n="83" xml:id="l83" part="I">Quelle horreur !</l>
         </sp>
         <sp who="phedre" xml:id="I-51">
           <speaker>phèdre</speaker>
-          <l n="83" part="F">Comm' tu dis! Mais c'est bougrement bon...</l>
-          <l n="84" xml:id="l84">Ça s'fait en descendant les march's du Parthénon !</l>
+          <l n="83" part="F">Comm' tu dis! Mais c'est bougrement bon…</l>
+          <l n="84" xml:id="l84">Ça s'fait en descendant les march's du Parthénon !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-52">
           <speaker>hippolyte</speaker>
-          <l n="85" xml:id="l85">Prenez garde, Madame, et craignez mon courroux !</l>
+          <l n="85" xml:id="l85">Prenez garde, Madame, et craignez mon courroux !</l>
         </sp>
         <sp who="phedre" xml:id="I-53">
           <speaker>phèdre</speaker>
-          <l n="86" xml:id="l86">C'est ça, vas-y Polyte<note type="C">Jeu de mots : "vas-y Polyte" peut s'entendre "Va Hipollyte".</note>, bats-moi, fous-moi des coups<note type="C">On peut penser à la chanson de Boris Vian : "Fais moi mal Johnny." datant de 1956</note> !</l>
+          <l n="86" xml:id="l86">C'est ça, vas-y Polyte<note type="C">Jeu de mots : "vas-y Polyte" peut s'entendre "Va Hipollyte".</note>, bats-moi, fous-moi des coups<note type="C">On peut penser à la chanson de Boris Vian : "Fais moi mal Johnny." datant de 1956</note> !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-54">
           <speaker>hippolyte</speaker>
-          <l n="87" xml:id="l87">Vous frapper ? Moi, jamais, mon honneur est sans tache.</l>
+          <l n="87" xml:id="l87">Vous frapper ? Moi, jamais, mon honneur est sans tache.</l>
         </sp>
         <sp who="phedre" xml:id="I-55">
           <speaker>phèdre</speaker>
-          <l n="88" xml:id="l88">Mais y'a pas d'déshonneur, moi j'aim' ça l'amour vache...</l>
-          <l n="89" xml:id="l89">Viens, tu s'ras mon p'tit homme et j'te donnerai des sous...</l>
+          <l n="88" xml:id="l88">Mais y'a pas d'déshonneur, moi j'aim' ça l'amour vache…</l>
+          <l n="89" xml:id="l89">Viens, tu s'ras mon p'tit homme et j'te donnerai des sous…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-56">
           <speaker>hippolyte</speaker>
-          <l n="90" xml:id="l90">Ah ! Que ne suis-je assis à l'ombre des bambous...</l>
-          <l n="91" xml:id="l91">Je ne veux rien de vous, mon coeur reste de roche !</l>
+          <l n="90" xml:id="l90">Ah ! Que ne suis-je assis à l'ombre des bambous…</l>
+          <l n="91" xml:id="l91">Je ne veux rien de vous, mon coeur reste de roche !</l>
         </sp>
         <sp who="phedre" xml:id="I-57">
           <speaker>phèdre, câline</speaker>
-          <l n="92" xml:id="l92">Qu'est c'que tu dirais d'un p'tit cadran solaire de poche ?</l>
+          <l n="92" xml:id="l92">Qu'est c'que tu dirais d'un p'tit cadran solaire de poche ?</l>
           <l n="93" xml:id="l93">J'te frai fair' sur mesure un' joli' peau d'mouton</l>
-          <l n="94" xml:id="l94">Et pour les jours fériés des cothurn's<note type="L">Cothurne : C'est une espèce de soulier ou de patin élevé par des semelles de liège, dont se servaient les anciens acteurs de Tragedies sur la scène, pour paraître de plus belle taille. Il couvrait le gras de la jambe, et était lié sous le genou. [F]</note> à boutons...</l>
+          <l n="94" xml:id="l94">Et pour les jours fériés des cothurn's<note type="L">Cothurne : C'est une espèce de soulier ou de patin élevé par des semelles de liège, dont se servaient les anciens acteurs de Tragedies sur la scène, pour paraître de plus belle taille. Il couvrait le gras de la jambe, et était lié sous le genou. [F]</note> à boutons…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-58">
           <speaker>hippolyte</speaker>
-          <l n="95" xml:id="l95">Croyez-vous donc m'avoir en m'offrant des chaussures ?</l>
-          <l n="96" xml:id="l96">C'est croire que mon coeur du vôtre à la pointure !</l>
+          <l n="95" xml:id="l95">Croyez-vous donc m'avoir en m'offrant des chaussures ?</l>
+          <l n="96" xml:id="l96">C'est croire que mon coeur du vôtre à la pointure !</l>
         </sp>
         <sp who="phedre" xml:id="I-59">
           <speaker>phèdre</speaker>
           <l n="97" xml:id="l97">En parlant de pointure, si j'en juge à ton nez</l>
-          <l n="98" xml:id="l98">Ell' doit être un peu là si c'est proportionné !</l>
+          <l n="98" xml:id="l98">Ell' doit être un peu là si c'est proportionné !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-60">
           <speaker>hippolyte</speaker>
           <l n="99" xml:id="l99">Vous devriez rougir de vos propos infâmes</l>
-          <l n="100" xml:id="l100">Vous me faites horreur, ô méprisable femme !</l>
+          <l n="100" xml:id="l100">Vous me faites horreur, ô méprisable femme !</l>
         </sp>
         <sp who="phedre" xml:id="I-61">
           <speaker>phèdre</speaker>
-          <l n="101" xml:id="l101">À la fin c'en est trop! Mais n'as-tu donc rien là ?</l>
+          <l n="101" xml:id="l101">À la fin c'en est trop! Mais n'as-tu donc rien là ?</l>
         </sp>
         <sp who="hippolyte" xml:id="I-62">
           <speaker>hippolyte</speaker>
@@ -356,110 +356,110 @@
         </sp>
         <sp who="phedre" xml:id="I-63">
           <speaker>phèdre</speaker>
-          <l n="103" xml:id="l103">Les feux qui me dévor'nt ne sont pas éphémères...</l>
+          <l n="103" xml:id="l103">Les feux qui me dévor'nt ne sont pas éphémères…</l>
           <l n="104" xml:id="l104">Hippolyt' je voudrais que tu me rendiss's mère.</l>
         </sp>
         <sp who="hippolyte" xml:id="I-64">
           <speaker>hippolyte</speaker>
-          <l n="105" xml:id="l105">Ciel ! Qu'est-ce que j'entends ? Madame, oubliez-vous</l>
-          <l n="106" xml:id="l106">Que Thésée est mon père et qu'il est votre époux ?<note type="C">Les vers 105 et 106 sont les vers 663 et 664 de Phèdre de Jean Racine.</note></l>
+          <l n="105" xml:id="l105">Ciel ! Qu'est-ce que j'entends ? Madame, oubliez-vous</l>
+          <l n="106" xml:id="l106">Que Thésée est mon père et qu'il est votre époux ?<note type="C">Les vers 105 et 106 sont les vers 663 et 664 de Phèdre de Jean Racine.</note></l>
         </sp>
         <sp who="phedre" xml:id="I-65">
           <speaker>phèdre</speaker>
-          <l n="107" xml:id="l107">C'qui fait que j'suis ta mer', c'est pour ça qu'tu t'tortilles ?</l>
+          <l n="107" xml:id="l107">C'qui fait que j'suis ta mer', c'est pour ça qu'tu t'tortilles ?</l>
           <l n="108" xml:id="l108">Ben comm' ça tout s'passera honnêtement en famille.</l>
         </sp>
         <sp who="hippolyte" xml:id="I-66">
           <speaker>hippolyte</speaker>
           <l n="109" xml:id="l109">Mais si de cet impur et vil accouplement</l>
-          <l n="110" xml:id="l110">Il nous venait un fils, que serait cet enfant ?</l>
+          <l n="110" xml:id="l110">Il nous venait un fils, que serait cet enfant ?</l>
         </sp>
         <sp who="phedre" xml:id="I-67">
           <speaker>phèdre</speaker>
           <l n="111" xml:id="l111">Puisque je s'rais ta femme en mêm' temps que ta mère</l>
-          <l n="112" xml:id="l112">L'enfant serait ton fils en mêm' temps que ton frère...</l>
+          <l n="112" xml:id="l112">L'enfant serait ton fils en mêm' temps que ton frère…</l>
         </sp>
         <sp who="hippolyte" xml:id="I-68">
           <speaker>hippolyte</speaker>
-          <l n="113" xml:id="l113">Et si c'était un' fill' qu'engendrait votre sein ?</l>
+          <l n="113" xml:id="l113">Et si c'était un' fill' qu'engendrait votre sein ?</l>
         </sp>
         <sp who="phedre" xml:id="I-69">
           <speaker>phèdre</speaker>
-          <l n="114" xml:id="l114">Ta fill' serait ta soeur et ton frèr' mon cousin !</l>
+          <l n="114" xml:id="l114">Ta fill' serait ta soeur et ton frèr' mon cousin !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-70">
           <speaker>hippolyte</speaker>
-          <l n="115" xml:id="l115">Ah ! Que ne suis-je assis à l'ombre des pelouses...</l>
+          <l n="115" xml:id="l115">Ah ! Que ne suis-je assis à l'ombre des pelouses…</l>
         </sp>
         <sp who="phedre" xml:id="I-71">
           <speaker>phèdre</speaker>
-          <l n="116" xml:id="l116">Tu parl's ! Avec c'mond'là, qu'est-c'qu'on f'rait comm' partouzes !</l>
+          <l n="116" xml:id="l116">Tu parl's ! Avec c'mond'là, qu'est-c'qu'on f'rait comm' partouzes !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-72">
           <speaker>hippolyte</speaker>
-          <l n="117" xml:id="l117" part="I">Assez, je pars, adieu !</l>
+          <l n="117" xml:id="l117" part="I">Assez, je pars, adieu !</l>
         </sp>
         <sp who="phedre" xml:id="I-73">
           <speaker>phèdre</speaker>
-          <l n="117" part="F">Ah ! Funèbres alarmes</l>
-          <l n="118" xml:id="l118">Voilà donc tout l'effet que t'inspirent mes charmes ?</l>
+          <l n="117" part="F">Ah ! Funèbres alarmes</l>
+          <l n="118" xml:id="l118">Voilà donc tout l'effet que t'inspirent mes charmes ?</l>
           <l n="119" xml:id="l119">J'attirerai sur toi la colère des dieux</l>
-          <l n="120" xml:id="l120" part="I">Afin qu'ils te la coupent !</l>
+          <l n="120" xml:id="l120" part="I">Afin qu'ils te la coupent !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-74">
           <speaker>hippolyte</speaker>
-          <l n="120" part="F">Quoi, la tête ?</l>
+          <l n="120" part="F">Quoi, la tête ?</l>
         </sp>
         <sp who="phedre" xml:id="I-75">
           <speaker>phèdre</speaker>
-          <l n="120" part="F">Non, bien mieux !</l>
+          <l n="120" part="F">Non, bien mieux !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-76">
           <speaker>hippolyte</speaker>
-          <l n="121" xml:id="l121">Vous êtes bien la fille de Pasiphaé<note type="C">Phèdre est la fille de Minos et de Pasiphaé. Voir le vers 36 de Phèdre de Jean Racine.</note> !</l>
+          <l n="121" xml:id="l121">Vous êtes bien la fille de Pasiphaé<note type="C">Phèdre est la fille de Minos et de Pasiphaé. Voir le vers 36 de Phèdre de Jean Racine.</note> !</l>
         </sp>
         <sp who="phedre" xml:id="I-77">
           <speaker>phèdre</speaker>
-          <l n="122" xml:id="l122">Et toi va par les Grecs t'faire empasiphaer !</l>
+          <l n="122" xml:id="l122">Et toi va par les Grecs t'faire empasiphaer !</l>
           <l n="123" xml:id="l123">Sinusite et Pet-de-Nonne venez sacré's bougresses</l>
-          <l n="124" xml:id="l124">Calmez mon désespoir, soutenez ma faiblesse...</l>
+          <l n="124" xml:id="l124">Calmez mon désespoir, soutenez ma faiblesse…</l>
         </sp>
         <sp who="pet-de-nonne" xml:id="I-78">
           <speaker>pet-de-nonne</speaker>
-          <l n="125" xml:id="l125">Elle respire à peine, elle va s'étouffer...</l>
+          <l n="125" xml:id="l125">Elle respire à peine, elle va s'étouffer…</l>
         </sp>
         <sp who="phedre" xml:id="I-79">
           <speaker>phèdre</speaker>
-          <l n="126" xml:id="l126">Ben, c'est pas étonnant, j'ai c't'Hippolyt' dans l'nez !</l>
+          <l n="126" xml:id="l126">Ben, c'est pas étonnant, j'ai c't'Hippolyt' dans l'nez !</l>
           <l n="127" xml:id="l127">Je veux dans le trépas noyer tant d'infamie</l>
-          <l n="128" xml:id="l128">Qu'on me donn' du poison pour abréger ma vie !</l>
+          <l n="128" xml:id="l128">Qu'on me donn' du poison pour abréger ma vie !</l>
         </sp>
         <sp who="sinusite" xml:id="I-80">
           <speaker>sinusite</speaker>
-          <l n="129" xml:id="l129">Duquel que vous voulez, d'l'ordinaire ou du bon ?</l>
+          <l n="129" xml:id="l129">Duquel que vous voulez, d'l'ordinaire ou du bon ?</l>
         </sp>
         <sp who="phedre" xml:id="I-81">
           <speaker>phèdre</speaker>
           <l n="130" xml:id="l130">Du gros voyons, du roug', celui qui fait des ronds.</l>
-          <l n="131" xml:id="l131">Qu'est c'que vous avez donc à m'bigler d'vos prunelles ?</l>
-          <l n="132" xml:id="l132" part="I">Écartez-vous de moi !</l>
+          <l n="131" xml:id="l131">Qu'est c'que vous avez donc à m'bigler d'vos prunelles ?</l>
+          <l n="132" xml:id="l132" part="I">Écartez-vous de moi !</l>
           <stage>À Hippolyte.</stage>
           <l n="132" part="F">Toi, viens ici, flanelle.</l>
           <l n="133" xml:id="l133">Exauce un voeu suprême sans trahir ta foi,</l>
           <l n="134" xml:id="l134">Viens trinquer avec moi pour la dernière fois.</l>
           <stage>Les servantes apportent deux bols.</stage>
-          <l n="135" xml:id="l135">À la tienne érotique sablonneux et casse pas le bol !</l>
+          <l n="135" xml:id="l135">À la tienne érotique sablonneux et casse pas le bol !</l>
           <stage>Elle boit.</stage>
-          <l n="136" xml:id="l136">Oh Dieu que ça me brûl', mais c'est du vitriol !</l>
+          <l n="136" xml:id="l136">Oh Dieu que ça me brûl', mais c'est du vitriol !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-82">
           <speaker>hippolyte, boit</speaker>
           <l n="137" xml:id="l137">Divinités du Styx, je succombe invaincu</l>
-          <l n="138" xml:id="l138" part="I">Le désespoir au coeur...</l>
+          <l n="138" xml:id="l138" part="I">Le désespoir au coeur…</l>
         </sp>
         <sp who="phedre" xml:id="I-83">
           <speaker>phèdre</speaker>
-          <l n="138" part="F">Et moi le feu au cul !</l>
+          <l n="138" part="F">Et moi le feu au cul !</l>
         </sp>
       </div1>
     </body>
