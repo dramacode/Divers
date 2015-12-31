@@ -50,7 +50,7 @@
       </castList>
     </front>
     <body>
-      <div1 type="acte" n="1" xml:id="I">
+      <div1 type="act" n="1" xml:id="I">
         <head>[Pièce en un acte et une scène]</head>
         <sp who="le-choeur-antique" xml:id="I-1">
           <speaker>le choeur antique, gueulant</speaker>
@@ -93,8 +93,7 @@
           <l n="16" xml:id="l16">Quand j'évoque la nuit ses innocents appas</l>
           <l n="17" xml:id="l17">J'ai des perturbations dedans la tubulure</l>
           <l n="18" xml:id="l18">Car cette Aricie-là je l'ai dans la fressure,</l>
-          <note type="C">Cerveau las : jeu de mots avec Cervelas.</note>
-          <l n="19" xml:id="l19">Elle est partout en moi, j'en ai le cerveau las,</l>
+          <l n="19" xml:id="l19">Elle est partout en moi, j'en ai le cerveau las<note type="C">Cerveau las : jeu de mots avec Cervelas.</note>,</l>
           <l n="20" xml:id="l20">J'ai l'Aricie ici et j'ai l'Aricie là !</l>
         </sp>
         <sp who="theramene" xml:id="I-8">
@@ -112,10 +111,8 @@
         <sp who="hippolyte" xml:id="I-11">
           <speaker>hippolyte</speaker>
           <l n="23" part="F">La retrait' d'Aricie</l>
-          <note type="C">Aricie la sortie : jeu de mots avec Par ici la sortie.</note>
-          <l n="24" xml:id="l24">Qu'elle sorte de moi ! Aricie la sortie !</l>
-          <note type="C">La chanson "As-tu connu la putain de Nancy" est une chanson paillarde d'une cinquantaine de vers libres.</note>
-          <stage>On entend une trompette jouer : As-tu connu la putain de Nancy...</stage>
+          <l n="24" xml:id="l24">Qu'elle sorte de moi ! Aricie la sortie<note type="C">Aricie la sortie : jeu de mots avec Par ici la sortie.</note> !</l>
+          <stage>On entend une trompette jouer : As-tu connu la putain de Nancy<note type="C">La chanson "As-tu connu la putain de Nancy" est une chanson paillarde d'une cinquantaine de vers libres.</note>...</stage>
         </sp>
         <sp who="theramene" xml:id="I-12">
           <speaker>théramène</speaker>
@@ -132,8 +129,7 @@
         <sp who="theramene" xml:id="I-14">
           <speaker>théramène</speaker>
           <l n="30" part="F">Je venais, souveraine</l>
-          <note type="C">Le récit de Théramène est une tirade de de 72 vers (v. 1498-1570) qui décrit la mort d'Hippolite dans la tragédie de Jean Racine (Acte V, scène VI).</note>
-          <l n="31" xml:id="l31">Vous redire à nouveau mon récit tant vécu...</l>
+          <l n="31" xml:id="l31">Vous redire à nouveau mon récit tant vécu<note type="C">Le récit de Théramène est une tirade de de 72 vers (v. 1498-1570) qui décrit la mort d'Hippolite dans la tragédie de Jean Racine (Acte V, scène VI).</note>...</l>
         </sp>
         <sp who="phedre" xml:id="I-15">
           <speaker>phèdre</speaker>
@@ -145,18 +141,15 @@
         <sp who="phedre" xml:id="I-16">
           <speaker>phèdre</speaker>
           <l n="35" xml:id="l35">Hippolyte ! Ah ! Grands dieux je ne peux plus parler</l>
-          <note type="C">Voir le vers 276, de Jean Racine : "Je sentis tout mon corps et transir, et brûler."</note>
-          <l n="36" xml:id="l36">Et je sens tout mon corps se transir et brûler !</l>
+          <l n="36" xml:id="l36">Et je sens tout mon corps se transir et brûler !<note type="C">Voir le vers 276, de Jean Racine : "Je sentis tout mon corps et transir, et brûler."</note></l>
         </sp>
         <sp who="hippolyte" xml:id="I-17">
           <speaker>hippolyte</speaker>
-          <note type="C">Le début du vers 36 est semblable aux vers n°2194 de Genviève d'Aure, n°1703 d'Oroposte de Claude Boyer, n°237 du Cid de Pierre Corneille, n°1597 de Cléomédon de Du Ryer, n°1269 de L'Absent de chez soi d'Ouville, n°1702 de Cléagénor et n°658 d'Hercule mourant de Rotrou, n°605 de l'Amour tyran et n°1335 d'Arminius de Georges de Scudéry. Voir ausi le vers 266 de Phèdre de Jeaan Racine.</note>
-          <l n="37" xml:id="l37">Ô rage ! Ô désespoir ! Ô détestable race !</l>
+          <l n="37" xml:id="l37">Ô rage ! Ô désespoir ! Ô détestable race !<note type="C">Le début du vers est semblable aux vers n°2194 de Genviève d'Aure, n°1703 d'Oroposte de Claude Boyer, n°237 du Cid de Pierre Corneille, n°1597 de Cléomédon de Du Ryer, n°1269 de L'Absent de chez soi d'Ouville, n°1702 de Cléagénor et n°658 d'Hercule mourant de Rotrou, n°605 de l'Amour tyran et n°1335 d'Arminius de Georges de Scudéry. Voir ausi le vers 266 de Phèdre de Jeaan Racine.</note></l>
         </sp>
         <sp who="phedre" xml:id="I-18">
           <speaker>phèdre</speaker>
-          <note type="C">Pétasse : terme insultant, prostituée.</note>
-          <l n="38" xml:id="l38">Par Jupiter je crois qu'il me trait' de pétasse !</l>
+          <l n="38" xml:id="l38">Par Jupiter je crois qu'il me trait' de pétasse<note type="C">Pétasse : terme insultant, prostituée.</note> !</l>
         </sp>
         <sp who="sinusite" xml:id="I-19">
           <speaker>sinusite</speaker>
@@ -172,8 +165,7 @@
         </sp>
         <sp who="hippolyte" xml:id="I-21">
           <speaker>hippolyte</speaker>
-          <note type="C">Le vers 44, est le même que le vers 306 de la Phèdre de Racine.</note>
-          <l n="44" xml:id="l44">C'est Vénus tout entière à sa proie attachée !</l>
+          <l n="44" xml:id="l44">C'est Vénus tout entière à sa proie attachée<note type="C">Le vers 44, est le même que le vers 306 de la Phèdre de Racine.</note> !</l>
         </sp>
         <sp who="phedre" xml:id="I-22">
           <speaker>phèdre</speaker>
@@ -211,8 +203,7 @@
         </sp>
         <sp who="phedre" xml:id="I-30">
           <speaker>phèdre</speaker>
-          <note type="L">Breloque : Argot. Attributs masculins qui vont par paire.</note>
-          <l n="54" xml:id="l54">Par les breloqu's d'Hercule je resterai quand même !</l>
+          <l n="54" xml:id="l54">Par les breloqu's<note type="L">Breloque : Argot. Attributs masculins qui vont par paire.</note> d'Hercule je resterai quand même !</l>
           <l n="55" xml:id="l55">Ah ! Que ne suis-je assise à l'ombre des palmiers...</l>
         </sp>
         <sp who="hippolyte" xml:id="I-31">
@@ -233,8 +224,7 @@
           <speaker>phèdre</speaker>
           <l n="60" xml:id="l60">Dis, t'es pas un peu dingu' ? Ça s'fait pas d'un seul coup !</l>
           <l n="61" xml:id="l61">Oui je sais distiller les plus rares ivresses...</l>
-          <note type="L">Pet de nonne : Est aussi le nom d'une patisserie. Le nom de la suivante dans le Phèdre de Racine se nome OEnone.</note>
-          <l n="62" xml:id="l62" part="I">C'est y vrai, Sinusite et Pet-d'Nonne ?</l>
+          <l n="62" xml:id="l62" part="I">C'est y vrai, Sinusite et Pet-d'Nonne<note type="L">Pet de nonne : Est aussi le nom d'une patisserie. Le nom de la suivante dans le Phèdre de Racine se nome OEnone.</note> ?</l>
         </sp>
         <sp who="les-servantes" xml:id="I-35">
           <speaker>les servantes, un peu gênées</speaker>
@@ -243,8 +233,7 @@
         <sp who="hippolyte" xml:id="I-36">
           <speaker>hippolyte</speaker>
           <l n="63" xml:id="l63">Je ne serais pour vous d'aucune utilité</l>
-          <note type="C">Le vers 64 est présent dans l'air "Allons il le faut... Adieu notre petite table" dans l'acte II de Manon de Jules Massenet.</note>
-          <l n="64" xml:id="l64">Je ne suis que faiblesse et que fragilité.</l>
+          <l n="64" xml:id="l64">Je ne suis que faiblesse et que fragilité<note type="C">Le vers 64 est présent dans l'air "Allons il le faut... Adieu notre petite table" dans l'acte II de Manon de Jules Massenet.</note>.</l>
         </sp>
         <sp who="phedre" xml:id="I-37">
           <speaker>phèdre</speaker>
@@ -320,9 +309,7 @@
         </sp>
         <sp who="phedre" xml:id="I-53">
           <speaker>phèdre</speaker>
-          <note type="C">On peut penser à la chanson de Boris Vian : "Fais moi mal Johnny." datant de 1956</note>
-          <note type="C">Jeu de mots : "vas-y Polyte" peut s'entendre "Va Hipollyte".</note>
-          <l n="86" xml:id="l86">C'est ça, vas-y Polyte, bats-moi, fous-moi des coups !</l>
+          <l n="86" xml:id="l86">C'est ça, vas-y Polyte<note type="C">Jeu de mots : "vas-y Polyte" peut s'entendre "Va Hipollyte".</note>, bats-moi, fous-moi des coups<note type="C">On peut penser à la chanson de Boris Vian : "Fais moi mal Johnny." datant de 1956</note> !</l>
         </sp>
         <sp who="hippolyte" xml:id="I-54">
           <speaker>hippolyte</speaker>
@@ -342,8 +329,7 @@
           <speaker>phèdre, câline</speaker>
           <l n="92" xml:id="l92">Qu'est c'que tu dirais d'un p'tit cadran solaire de poche ?</l>
           <l n="93" xml:id="l93">J'te frai fair' sur mesure un' joli' peau d'mouton</l>
-          <note type="L">Cothurne : C'est une espèce de soulier ou de patin élevé par des semelles de liège, dont se servaient les anciens acteurs de Tragedies sur la scène, pour paraître de plus belle taille. Il couvrait le gras de la jambe, et était lié sous le genou. [F]</note>
-          <l n="94" xml:id="l94">Et pour les jours fériés des cothurn's à boutons...</l>
+          <l n="94" xml:id="l94">Et pour les jours fériés des cothurn's<note type="L">Cothurne : C'est une espèce de soulier ou de patin élevé par des semelles de liège, dont se servaient les anciens acteurs de Tragedies sur la scène, pour paraître de plus belle taille. Il couvrait le gras de la jambe, et était lié sous le genou. [F]</note> à boutons...</l>
         </sp>
         <sp who="hippolyte" xml:id="I-58">
           <speaker>hippolyte</speaker>
@@ -366,8 +352,7 @@
         </sp>
         <sp who="hippolyte" xml:id="I-62">
           <speaker>hippolyte</speaker>
-          <note type="C">Le vers 102 est le vers 595 de Phèdre de Jean Racine.</note>
-          <l n="102" xml:id="l102">Madame je n'ai point de sentiments si bas.</l>
+          <l n="102" xml:id="l102">Madame je n'ai point de sentiments si bas<note type="C">Le vers 102 est le vers 595 de Phèdre de Jean Racine.</note>.</l>
         </sp>
         <sp who="phedre" xml:id="I-63">
           <speaker>phèdre</speaker>
@@ -376,9 +361,8 @@
         </sp>
         <sp who="hippolyte" xml:id="I-64">
           <speaker>hippolyte</speaker>
-          <note type="C">Les vers 105 et 106 sont les vers 663 et 664 de Phèdre de Jean Racine.</note>
           <l n="105" xml:id="l105">Ciel ! Qu'est-ce que j'entends ? Madame, oubliez-vous</l>
-          <l n="106" xml:id="l106">Que Thésée est mon père et qu'il est votre époux ?</l>
+          <l n="106" xml:id="l106">Que Thésée est mon père et qu'il est votre époux ?<note type="C">Les vers 105 et 106 sont les vers 663 et 664 de Phèdre de Jean Racine.</note></l>
         </sp>
         <sp who="phedre" xml:id="I-65">
           <speaker>phèdre</speaker>
@@ -432,8 +416,7 @@
         </sp>
         <sp who="hippolyte" xml:id="I-76">
           <speaker>hippolyte</speaker>
-          <note type="C">Phèdre est la fille de Minos et de Pasiphaé. Voir le vers 36 de Phèdre de Jean Racine.</note>
-          <l n="121" xml:id="l121">Vous êtes bien la fille de Pasiphaé !</l>
+          <l n="121" xml:id="l121">Vous êtes bien la fille de Pasiphaé<note type="C">Phèdre est la fille de Minos et de Pasiphaé. Voir le vers 36 de Phèdre de Jean Racine.</note> !</l>
         </sp>
         <sp who="phedre" xml:id="I-77">
           <speaker>phèdre</speaker>
