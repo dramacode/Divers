@@ -55,7 +55,7 @@
         <castList>
           <castItem><role xml:id="madame-pernelle" rend="female veteran">Madame Pernelle</role>, mère d'Orgon.</castItem>
           <castItem><role xml:id="elmire" rend="female">Elmire</role>, femme d'Orgon.</castItem>
-          <castItem><role xml:id="orgon-" rend="male">Orgon </role>, mari d'Elmire.</castItem>
+          <castItem><role xml:id="orgon" rend="male">Orgon</role>, mari d'Elmire.</castItem>
           <castItem><role xml:id="damis" rend="female junior">Damis</role>, fils d'Orgon.</castItem>
           <castItem><role xml:id="cleante" rend="male">Cléante</role>, beau-frère d'Orgon.</castItem>
           <castItem><role xml:id="tartuffe" rend="male">Tartuffe</role>, faux dévot.</castItem>
