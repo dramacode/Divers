@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>PHÈDRE</title>
+        <title>Phèdre</title>
         <author key="Dac, Pierre">Pierre Dac</author>
       </titleStmt>
       <publicationStmt>
@@ -226,7 +226,7 @@
           <l n="61" xml:id="l61">Oui je sais distiller les plus rares ivresses…</l>
           <l n="62" xml:id="l62" part="I">C'est y vrai, Sinusite et Pet-d'Nonne<note type="L">Pet de nonne : Est aussi le nom d'une patisserie. Le nom de la suivante dans le Phèdre de Racine se nome OEnone.</note> ?</l>
         </sp>
-        <sp who="les-servantes" xml:id="I-35">
+        <sp who="sinusite pet-de-none" xml:id="I-35">
           <speaker>les servantes, un peu gênées</speaker>
           <l n="62" part="F">Oui c'est vrai, cher' maîtresse…</l>
         </sp>
